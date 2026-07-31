@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this repository if you use the code or processed data."
+title: "Genome-wide aging analysis and ICH gene-delivery target prioritization"
+version: 1.0.0
+date-released: 2026-07-30
+authors:
+  - family-names: "Aafreen"
+    given-names: "Safiya"
+license: MIT
+repository-code: "ADD_GITHUB_REPOSITORY_URL_HERE"
