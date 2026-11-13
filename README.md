@@ -13,8 +13,7 @@ This repository contains the complete Python workflow used to:
 
 ## Analysis overview
 
-The aging analysis starts with all genes represented in the 13 CNS tables. It
-does not begin with GPX4 or a predefined candidate list.
+The aging analysis starts with all genes represented in the 13 CNS tables. 
 
 The processed dataset in this repository contains:
 
